@@ -1,0 +1,13 @@
+﻿  Source.cpp
+c:\users\user\source\repos\hash subiect 2019\hash subiect 2019\source.cpp(23): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+c:\users\user\source\repos\hash subiect 2019\hash subiect 2019\source.cpp(26): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+c:\users\user\source\repos\hash subiect 2019\hash subiect 2019\source.cpp(28): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+c:\users\user\source\repos\hash subiect 2019\hash subiect 2019\source.cpp(187): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\user\source\repos\hash subiect 2019\hash subiect 2019\source.cpp(189): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\user\source\repos\hash subiect 2019\hash subiect 2019\source.cpp(190): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\user\source\repos\hash subiect 2019\hash subiect 2019\source.cpp(123): warning C4715: 'afisareNumar': not all control paths return a value
+c:\users\user\source\repos\hash subiect 2019\hash subiect 2019\source.cpp(183): warning C4715: 'cautaDupaId': not all control paths return a value
+  Hash Subiect 2019.vcxproj -> C:\Users\User\source\repos\Hash Subiect 2019\Debug\Hash Subiect 2019.exe
