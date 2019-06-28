@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\user\source\repos\project1\project1\source.cpp(23): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+c:\users\user\source\repos\project1\project1\source.cpp(95): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Project1.vcxproj -> c:\Users\User\source\repos\Project1\Debug\Project1.exe
