@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\user\source\repos\abc - car\abc - car\source.cpp(21): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+c:\users\user\source\repos\abc - car\abc - car\source.cpp(140): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+c:\users\user\source\repos\abc - car\abc - car\source.cpp(206): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\user\source\repos\abc - car\abc - car\source.cpp(162): warning C4715: 'stergereABC': not all control paths return a value
+  ABC - Car.vcxproj -> C:\Users\User\source\repos\ABC - Car\Debug\ABC - Car.exe
