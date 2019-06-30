@@ -1,0 +1,9 @@
+﻿  Source.cpp
+c:\users\user\source\repos\avl- depozite 2019\avl- depozite 2019\source.cpp(22): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+c:\users\user\source\repos\avl- depozite 2019\avl- depozite 2019\source.cpp(29): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+c:\users\user\source\repos\avl- depozite 2019\avl- depozite 2019\source.cpp(237): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+c:\users\user\source\repos\avl- depozite 2019\avl- depozite 2019\source.cpp(245): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  AVL- Depozite 2019.vcxproj -> C:\Users\User\source\repos\AVL- Depozite 2019\Debug\AVL- Depozite 2019.exe
