@@ -1,0 +1,5 @@
+200,100,101,5,Popescu Ion
+100,120,101,4,Ionescu Mircea
+120,60,103,6,Catanescu Marcela
+300,150,104,10,Neagu Bianca
+500,200,103,5,Popescu Adela

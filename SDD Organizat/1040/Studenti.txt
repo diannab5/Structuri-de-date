@@ -1,0 +1,9 @@
+43,Gonescu Ieorge,8.45
+24,Ionescu George,7.64
+343,George Ionescu,9.33
+370,George Ionescu,7.63
+397,Vasilescu Mircea,8.94
+122,Grigorescu Alex,9.42
+365,Grigorescu Alex,9.09
+31,Grigorescu Marian,7.00
+13,Popescu Mircea,7.83

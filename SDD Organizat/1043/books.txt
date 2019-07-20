@@ -1,0 +1,21 @@
+99
+Titlu carte *****
+2
+Ionescu M
+Popescu M
+299
+Titlu Carte _____2______
+3 
+Ionescu M
+Grigorescu G
+Georgescu V
+499
+Titlu carte *****
+2
+Ionescu M
+Popescu M
+102
+Titlu carte *****
+2
+Ionescu M
+Popescu M
